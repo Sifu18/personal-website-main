@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-weight: bolder;
+    font-family: 'Staatliches', cursive;
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+section{
+    margin-bottom: 50px;
+}
+.half-width{
+    width: 40%;
+    padding: 5px;
+    margin: 2px;
+    float: left;
+}
+.half-width img{
+    width: 75%;
+}
+#grettings{
+    padding-left: 10%;
+    padding-top: 0%;
+}
+#hello{
+    color: darkslateblue;
+}
+#name-highlighter{
+    color: salmon;
+}
+.link-button{
+    background: linear-gradient(to right, #33ccff 0%, #3333cc 100%);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-family:'Roboto Condensed', sans-serif;
+
+}
+.bottom-part{
+    position:relative;
+    width: 100%;
+    min-height: 80%;
+    padding:0;
+    display: inline-block;
+    align-items:center;
+    background: whitesmoke;
+    justify-content:space-between;
+    margin-top: 100px;
+
+}
+.one-third img{
+    width: 25%;
+    float: left;
+    padding-left: 7pc;
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+}
